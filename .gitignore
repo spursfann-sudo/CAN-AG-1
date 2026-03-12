@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+
+# Antigravity artifacts (optional, but usually you commit .agents)
+# .gemini/
